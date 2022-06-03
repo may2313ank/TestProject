@@ -6,6 +6,6 @@ import org.springframework.stereotype.Controller;
 public class TestJavaFile {
 
 	public String getString() {
-		return "getString method";
+		return "getString method1";
 	}
 }
